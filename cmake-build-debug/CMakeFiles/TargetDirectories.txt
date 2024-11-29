@@ -1,0 +1,3 @@
+/Users/garvsharma/CLionProjects/University_Management_System/cmake-build-debug/CMakeFiles/University_Management_System.dir
+/Users/garvsharma/CLionProjects/University_Management_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/garvsharma/CLionProjects/University_Management_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
